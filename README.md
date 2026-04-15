@@ -9,7 +9,7 @@
 Sou um entusiasta de tecnologia, estudante e focado em me tornar um Desenvolvedor Full-Stack. Atualmente, concilio o trabalho na área de vendas técnicas com o desenvolvimento de projetos práticos e transmissões ao vivo.
 
 - 🎓 Atualmente aprofundando conhecimentos em desenvolvimento web.
-- 🕹️ Apaixonado por hardware, simuladores de corrida e gaming.
+- 🕹️ Apaixonado por hardware e gaming.
 - 📢 Criador de conteúdo/Streamer sob o handle **Accelerator13**.
 
 ### 🛠️ Tecnologias e Ferramentas
