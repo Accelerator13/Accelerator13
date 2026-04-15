@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá, eu sou o Alexandre! 👋 
 
-<!--
-**Accelerator13/Accelerator13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Accelerator13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Accelerator13&layout=compact&theme=dracula" height="180em" />
+</div>
 
-Here are some ideas to get you started:
+### 🚀 Sobre Mim
+Sou um entusiasta de tecnologia, estudante e focado em me tornar um Desenvolvedor Full-Stack. Atualmente, concilio o trabalho na área de vendas técnicas com o desenvolvimento de projetos práticos e transmissões ao vivo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Atualmente aprofundando conhecimentos em desenvolvimento web.
+- 💻 No meu setup, utilizo **Zorin OS (Linux)** para produtividade e desenvolvimento.
+- 🕹️ Apaixonado por hardware, simuladores de corrida e gaming.
+- 📢 Criador de conteúdo/Streamer sob o handle **Accelerator13**.
+
+### 🛠️ Tecnologias e Ferramentas
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,html,css,git,linux,github,vscode,discord" />
+  </a>
+</div>
+
+### 📂 Principais Projetos
+* **[Meu Portfólio](https://github.com/Accelerator13/Portifolho)** - Repositório central com meus projetos e evolução no código.
+* **Login Page** - Implementação de autenticação funcional com foco em UI/UX.
+
+### 📫 Como me encontrar
+<div align="left">
+  <a href="https://www.youtube.com/@Accelerator13" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/Accelerator13" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="mailto:alexandregrande782@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+<details>
+ <summary><b>Curiosidades e Setup 🛠️</b></summary>
+ <ul>
+  <li><b>Sistema:</b> Entusiasta de distros Linux e performance de hardware.</li>
+  <li><b>Hobbies:</b> Airsoft e competições em simuladores de corrida.</li>
+  <li><b>Objetivo 2026:</b> Consolidar minha carreira como Desenvolvedor Junior.</li>
+ </ul>
+</details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
