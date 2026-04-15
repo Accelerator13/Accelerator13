@@ -9,7 +9,6 @@
 Sou um entusiasta de tecnologia, estudante e focado em me tornar um Desenvolvedor Full-Stack. Atualmente, concilio o trabalho na área de vendas técnicas com o desenvolvimento de projetos práticos e transmissões ao vivo.
 
 - 🎓 Atualmente aprofundando conhecimentos em desenvolvimento web.
-- 💻 No meu setup, utilizo **Zorin OS (Linux)** para produtividade e desenvolvimento.
 - 🕹️ Apaixonado por hardware, simuladores de corrida e gaming.
 - 📢 Criador de conteúdo/Streamer sob o handle **Accelerator13**.
 
