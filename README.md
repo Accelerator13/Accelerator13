@@ -16,7 +16,7 @@ Sou um entusiasta de tecnologia, estudante e focado em me tornar um Desenvolvedo
 ### 🛠️ Tecnologias e Ferramentas
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,html,css,git,linux,github,vscode,discord" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,linux,github,vscode,discord" />
   </a>
 </div>
 
