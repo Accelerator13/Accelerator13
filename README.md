@@ -37,7 +37,7 @@ Sou um entusiasta de tecnologia, estudante e focado em me tornar um Desenvolvedo
  <summary><b>Curiosidades e Setup 🛠️</b></summary>
  <ul>
   <li><b>Sistema:</b> Entusiasta de distros Linux e performance de hardware.</li>
-  <li><b>Hobbies:</b> Airsoft e competições em simuladores de corrida.</li>
+  <li><b>Hobbies:</b> Lives, Animes e jogos</li>
   <li><b>Objetivo 2026:</b> Consolidar minha carreira como Desenvolvedor Junior.</li>
  </ul>
 </details>
