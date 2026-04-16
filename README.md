@@ -26,7 +26,7 @@ Sou um entusiasta de tecnologia, estudante e focado em me tornar um Desenvolvedo
 ### 📫 Como me encontrar
 <div align="left">
   <a href="https://www.youtube.com/@Accelerator13" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/Accelerator13" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="[https://www.twitch.tv/Accelerator13](https://www.twitch.tv/accelerator_13)" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="mailto:alexandregrande782@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
