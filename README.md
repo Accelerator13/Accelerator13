@@ -1,10 +1,5 @@
 # Olá, eu sou o Alexandre! 👋 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Accelerator13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Accelerator13&layout=compact&theme=dracula" height="180em" />
-</div>
-
 ### 🚀 Sobre Mim
 Sou um entusiasta de tecnologia, estudante e focado em me tornar um Desenvolvedor Full-Stack. Atualmente, concilio o trabalho na área de vendas técnicas com o desenvolvimento de projetos práticos e transmissões ao vivo.
 
